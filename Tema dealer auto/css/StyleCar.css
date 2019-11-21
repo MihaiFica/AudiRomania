@@ -1,0 +1,42 @@
+table,th,td 
+{
+	background:#f2f2f2;
+	border:0.05em solid gray;
+	font-size:1.1em;
+ 	margin-left:auto;
+    margin-right:auto;
+	width:50vw;
+}
+td
+{
+	padding:1em;
+}
+
+h1 
+{
+	color:gray;
+	text-align:center;
+	letter-spacing:0.03em;
+	text-transform:capitalize;
+	text-decoration:none;
+	word-spacing:0.1em;
+	font-size:3.1em;
+}
+h2
+{
+	color:gray;
+	text-align:center;
+	letter-spacing:0.03em;
+	text-transform:capitalize;
+	text-decoration:none;
+	word-spacing:0.1em;
+	font-size:2em;
+}
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  min-height:10em;
+  min-width:19.5em;
+  width:50vw;
+}
